@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+.DS_Store
+*.sqlite3
+*/settings/local.py
+.vscode
+migrations/0*
+*-org
+*-org.*
